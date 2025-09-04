@@ -1,4 +1,5 @@
-# Mergington High School Activities API
+git checkout -b accelerate-with-copilot
+git push -u origin accelerate-with-copilot# Mergington High School Activities API
 
 A super simple FastAPI application that allows students to view and sign up for extracurricular activities.
 
